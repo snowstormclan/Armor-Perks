@@ -1,6 +1,6 @@
 # Armor Perks 2
 
-- Helmet Perks
+## Helmet Perks
     - Targeting
         - All Weapons, except Grenade & Rocket Launchers
             - Auto Rifle
