@@ -1,6 +1,6 @@
 ---
 title: Targeting
-parent: Helm
+parent: Helm Perks
 has_children: true
 nav_order: 1
 #permalink: /docs/Helm
