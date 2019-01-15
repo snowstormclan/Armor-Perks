@@ -1,7 +1,7 @@
-```markdown
 # Armor Perks 2
 
 ## Helmet Perks
+
     - Targeting
         - All Weapons, except Grenade & Rocket Launchers
             * Auto Rifle
@@ -146,4 +146,3 @@
         Special (Green Bricks)
 
         Heavy (Purple Bricks)
-```
