@@ -1,21 +1,9 @@
 ---
-layout: default
 title: Targeting
-nav_order: 1
 parent: Helm
+nav_order: 1
 #permalink: /docs/Helm
----
 
-# Color Utilities
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
 
     - All Weapons, except Grenade & Rocket Launchers
         * Auto Rifle
