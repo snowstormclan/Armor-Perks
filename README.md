@@ -1,3 +1,4 @@
+```markdown
 # Armor Perks 2
 
 ## Helmet Perks
@@ -145,3 +146,4 @@
         Special (Green Bricks)
 
         Heavy (Purple Bricks)
+```
