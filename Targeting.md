@@ -6,7 +6,7 @@ nav_order: 1
 #permalink: /docs/Helm
 ---
 
-    - All Weapons, except Grenade & Rocket Launchers
+- All Weapons, except Grenade & Rocket Launchers
         * Auto Rifle
         * Bow
         * Fusion Rifle
