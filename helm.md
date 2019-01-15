@@ -7,5 +7,3 @@ nav_order: 2
 ---
 
 # Helm Perks
-
-Splash Page
