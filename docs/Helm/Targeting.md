@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Color
+title: Targeting
 nav_order: 3
 parent: Helm
+permalink: /docs/Helm
 ---
 
 # Color Utilities
