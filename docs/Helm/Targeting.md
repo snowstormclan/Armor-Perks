@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Targeting
-nav_order: 4
+nav_order: 1
 parent: Helm
 #permalink: /docs/Helm
 ---
