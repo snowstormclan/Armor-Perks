@@ -7,6 +7,7 @@ nav_order: 1
 ---
 
 - All Weapons, except Grenade & Rocket Launchers
+
         - Auto Rifle
         - Bow
         - Fusion Rifle
@@ -19,6 +20,7 @@ nav_order: 1
         - Sidearm
         - Sniper Rifle
         - Submachine Gun
+        
     - Power Weapon (Only way to get Targeting for GL and RL)
     - Precision Weapon (HC, SR, Bows, LFR, Snipers, Slug Shotguns)
     - Scatter Projectile (AR, SMG, PR, Sidearms, FR)
