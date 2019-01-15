@@ -3,7 +3,7 @@ layout: default
 title: Targeting
 nav_order: 4
 parent: Helm
-permalink: /docs/Helm
+#permalink: /docs/Helm
 ---
 
 # Color Utilities
