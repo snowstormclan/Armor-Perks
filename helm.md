@@ -2,8 +2,10 @@
 # layout: default
 title: Helm Perks
 has_children: true
-nav_order: 3
+nav_order: 2
 # permalink: /docs/Helm
 ---
 
-Destiny 2 Armor Perks for Helms
+# Helm Perks
+
+Splash Page
