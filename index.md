@@ -10,7 +10,8 @@ permalink: /
 ## Helmet Perks
 
     - Targeting
-        - All Weapons, except Grenade & Rocket Launchers
+        - All Weapons, except Grenade & Rocket Launchers <
+
             * Auto Rifle
             * Bow
             * Fusion Rifle
@@ -23,6 +24,7 @@ permalink: /
             * Sidearm
             * Sniper Rifle
             * Submachine Gun
+            
         - Power Weapon (Only way to get Targeting for GL and RL)
         - Precision Weapon (HC, SR, Bows, LFR, Snipers, Slug Shotguns)
         - Scatter Projectile (AR, SMG, PR, Sidearms, FR)
