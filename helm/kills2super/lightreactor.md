@@ -1,5 +1,5 @@
 ---
-title: Heavy Lifting
+title: Light Reactor
 parent: Kills Give Super Energy
 has_children: false
 nav_order: 2
