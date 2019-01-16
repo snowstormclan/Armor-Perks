@@ -1,5 +1,5 @@
 ---
-title: Targeting Perks
+title: Class Item Perks
 parent: Helm Perks
 has_children: true
 nav_order: 4
