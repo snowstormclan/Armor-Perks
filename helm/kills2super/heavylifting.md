@@ -7,3 +7,7 @@ nav_order: 1
 ---
 
 ![](https://raw.githubusercontent.com/snowstormclan/Armor-Perks/master/images/Kills%202%20Super/Heavy%20Lifting.png)
+
+Gain bonus Super energy from Power weapon kills.
+
+Effect: 9s Reduction
