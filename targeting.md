@@ -3,7 +3,6 @@ title: Targeting Perks
 parent: Helm Perks
 has_children: true
 nav_order: 1
-#permalink: /docs/Helm
 ---
 
 - All Weapons, except Grenade & Rocket Launchers
