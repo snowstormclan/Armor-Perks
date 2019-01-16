@@ -1,6 +1,6 @@
 ---
-title: Class Item Perks
-parent: Helm Perks
+title: Ammo Finder Perks
+parent: Class Item Perks
 has_children: true
 nav_order: 4
 ---
