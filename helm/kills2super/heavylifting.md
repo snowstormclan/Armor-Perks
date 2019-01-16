@@ -6,4 +6,4 @@ nav_order: 1
 #permalink: /helm/kills2super
 ---
 
-![](Armor-Perks/images/Kills 2 Super/Heavy Lifting.png)
+![](https://raw.githubusercontent.com/snowstormclan/Armor-Perks/master/images/Kills%202%20Super/Heavy%20Lifting.png)
