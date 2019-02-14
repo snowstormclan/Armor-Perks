@@ -1,6 +1,6 @@
 ---
 title: Fastball
-parent: abilityenhance
+parent: Melee & Grenade Boosting Perks
 has_children: false
 nav_order: 1
 ---
