@@ -1,5 +1,5 @@
 ---
-title: Enhanced Perks
+title: Enhanced Helm Perks
 parent: Helm Perks
 has_children: true
 nav_order: 3

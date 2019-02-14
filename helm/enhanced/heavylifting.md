@@ -1,6 +1,6 @@
 ---
 title: Heavy Lifting
-parent: Enhanced Perks
+parent: Enhanced Helm Perks
 has_children: false
 nav_order: 2
 #permalink: /helm/kills2super

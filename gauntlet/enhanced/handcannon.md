@@ -1,6 +1,6 @@
 ---
 title: Enhanced Hand Cannon Loader
-parent: Enhanced Perks
+parent: Enhanced Gauntlet Perks
 has_children: false
 nav_order: 4
 ---

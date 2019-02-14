@@ -1,6 +1,6 @@
 ---
 title: Enhanced Grenade Launcher Loader
-parent: Enhanced Perks
+parent: Enhanced Gauntlet Perks
 has_children: false
 nav_order: 3
 ---

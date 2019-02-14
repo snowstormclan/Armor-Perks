@@ -1,6 +1,6 @@
 ---
 title: Sniper Rifle Targeting
-parent: Enhanced Perks
+parent: Enhanced Helm Perks
 has_children: false
 nav_order: 6
 ---

@@ -1,6 +1,6 @@
 ---
 title: Enhanced Momentum Transfer
-parent: Enhanced Perks
+parent: Enhanced Gauntlet Perks
 has_children: false
 nav_order: 2
 ---

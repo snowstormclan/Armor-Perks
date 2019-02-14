@@ -1,6 +1,6 @@
 ---
 title: Ashes to Assets
-parent: Enhanced Perks
+parent: Enhanced Helm Perks
 has_children: false
 nav_order: 1
 #permalink: /helm/kills2super

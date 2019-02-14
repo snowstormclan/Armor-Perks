@@ -1,5 +1,5 @@
 ---
-title: Enhanced Perks
+title: Enhanced Gauntlet Perks
 parent: Gauntlet Perks
 has_children: true
 nav_order: 3
