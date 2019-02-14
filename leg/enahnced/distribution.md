@@ -1,8 +1,8 @@
 ---
 title: Distribution
-parent: Ability Cooldown Perks
+parent: Enhanced Leg Perks
 has_children: false
-nav_order: 3
+nav_order: 1
 ---
 
 ![](https://bungie.net/common/destiny2_content/icons/86236850d7a35cb389669437655f82a6.png)
